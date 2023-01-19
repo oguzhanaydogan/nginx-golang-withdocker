@@ -1,0 +1,5 @@
+frontend/proxy/
+backend/backend/
+.idea/
+data
+*.log
